@@ -71,6 +71,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv">
+<img src="https://img.shields.io/badge/ORB_Feature_Detection-darkblue?style=for-the-badge">
 <img src="https://img.shields.io/badge/YOLO-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/Edge_AI-red?style=for-the-badge">
 </p>
