@@ -59,7 +59,9 @@
 <p>
 <img src="https://img.shields.io/badge/UART-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/I2C-grey?style=for-the-badge">
+
 </p>
+
 
 ---
 
