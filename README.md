@@ -37,6 +37,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks">
+
 </p>
 
 ---
