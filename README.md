@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://https://www.linkedin.com/in/kishor-g-366826329?utm_source=share_via&utm_content=profile&utm_medium=member_android/">
+<a href="https://www.linkedin.com/in/kishor-g-366826329/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
