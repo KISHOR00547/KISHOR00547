@@ -77,33 +77,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-## 🤖 Maze Solver Robot
-Autonomous maze-solving robot using ESP32, ultrasonic sensors, and optimized movement algorithms.
-
-## 🏎️ Line Follower Robot
-Built a high-speed line follower robot using QTR sensors and PID-based control logic.
-
-## 🚦 Toll Gate System
-Smart toll gate automation prototype for vehicle detection and gate control.
-
-## 🧠 Neurological Screening Device
-Healthcare-related embedded system project focused on neurological screening concepts.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KISHOR00547&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR00547&layout=compact&theme=tokyonight">
-</p>
-
----
 
 # 🌐 Connect With Me
 
