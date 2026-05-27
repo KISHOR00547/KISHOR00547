@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishor G</h1>
 
-<h3 align="center">🚀 Embedded Systems Enthusiast | Robotics >
+<h3 align="center">🚀 Embedded Systems Enthusiast | Robotics 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Enthusiast;ESP32+%7C+STM32+Developer;Robotics+Explorer;Computer+Vision+Learner;Future+Embedded+Engineer&center=true&width=600&height=50">
